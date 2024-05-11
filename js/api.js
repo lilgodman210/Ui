@@ -9,7 +9,7 @@ export const promptGenBtn = document.getElementById("promptGenBtn");
 export const promptGenBtnRan = document.getElementById("promptGenBtnRan");
 export const promptGenInput = document.getElementById("promptGenInput");
 
-apikey.innerHTML = "Your API : ******************";
+apikey.innerHTML = "Your API : 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";
 
 showApi.addEventListener("click", () => show());
 function show() {
